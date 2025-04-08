@@ -1,4 +1,5 @@
 # 📱 Scanb4
+[![Download](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/farazabir/Scan4Gaza/releases/download/Scan4gaza/app-arm64-v8a-release.apk)
 
 ### 🙅‍♂️ Scan. Know. Boycott.
 
@@ -15,7 +16,7 @@
 ## 📲 Download Now
 
 Scan the QR code below to download **Scanb4** and start making impactful choices today.
-[![Download](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/farazabir/Scan4Gaza/releases/download/Scan4gaza/app-arm64-v8a-release.apk)
+
 
 <p align="center">
   <img src="https://private-user-images.githubusercontent.com/62275863/431337292-0398efeb-3c34-4744-9827-1cd67850fb28.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQxMTAyMDYsIm5iZiI6MTc0NDEwOTkwNiwicGF0aCI6Ii82MjI3NTg2My80MzEzMzcyOTItMDM5OGVmZWItM2MzNC00NzQ0LTk4MjctMWNkNjc4NTBmYjI4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDA4VDEwNTgyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM2NzZiYmU0N2M3ZjRiM2FlMmQ3ZmFmYmMzODg1MDc0OTZjYTVmMTFiY2RjNjM1ZGM4MzNjMWFhOWY2ZjkwYjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.9EjwQBvGecwd2NUO7JpBTK3db_JH2HOstyOK3HXwYgg" alt="Download Scanb4" width="400" />
